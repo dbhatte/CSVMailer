@@ -8,7 +8,7 @@
 
 ## Requirements
 
-- JDK 8
+- JDK 9
 - Maven
 
 ## To compile
